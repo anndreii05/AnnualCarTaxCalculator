@@ -1,0 +1,17 @@
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\bin\Debug\net5.0-windows\Laborator POO (3).exe
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\bin\Debug\net5.0-windows\Laborator POO (3).deps.json
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\bin\Debug\net5.0-windows\Laborator POO (3).runtimeconfig.json
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\bin\Debug\net5.0-windows\Laborator POO (3).runtimeconfig.dev.json
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\bin\Debug\net5.0-windows\Laborator POO (3).dll
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\bin\Debug\net5.0-windows\Laborator POO (3).pdb
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\obj\Debug\net5.0-windows\Laborator POO (3).csproj.GenerateResource.cache
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\obj\Debug\net5.0-windows\Laborator POO (3).GeneratedMSBuildEditorConfig.editorconfig
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\obj\Debug\net5.0-windows\Laborator POO (3).AssemblyInfoInputs.cache
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\obj\Debug\net5.0-windows\Laborator POO (3).AssemblyInfo.cs
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\obj\Debug\net5.0-windows\Laborator POO (3).csproj.CoreCompileInputs.cache
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\obj\Debug\net5.0-windows\Laborator POO (3).dll
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\obj\Debug\net5.0-windows\ref\Laborator POO (3).dll
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\obj\Debug\net5.0-windows\Laborator POO (3).pdb
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\obj\Debug\net5.0-windows\Laborator POO (3).genruntimeconfig.cache
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\obj\Debug\net5.0-windows\Laborator_POO__3_.Form1.resources
+D:\POO Proiecte\Laborator POO (3)\Laborator POO (3)\obj\Debug\net5.0-windows\refint\Laborator POO (3).dll
